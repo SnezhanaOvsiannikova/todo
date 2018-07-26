@@ -1,0 +1,22 @@
+.btn-holder {
+    text-align: right;
+}
+.btn {
+    border-radius: 6px;
+    border: 1px solid #8b8787;
+    padding: 4px 15px;
+    box-shadow: none;
+}
+.close-icon {
+    position: absolute;
+    right: 6px;
+    top: 6px;
+}
+.btn:hover,
+.close-icon {
+    cursor: pointer;
+}
+.btn:focus,
+.close-icon{
+    outline: none;
+}

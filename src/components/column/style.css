@@ -1,0 +1,14 @@
+.column-board {
+    border: 2px solid #000;
+    border-left: none;
+    min-width: 200px;
+    max-width: 350px;
+}
+.column-board:first-child {
+    border-left: 2px solid #000;
+}
+.title {
+    text-align: center;
+    border-bottom: 2px solid #000;
+    margin-bottom: 0;
+}
